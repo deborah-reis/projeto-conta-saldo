@@ -1,4 +1,3 @@
-# projeto-conta-saldo
 
 menu = '''
 ------
